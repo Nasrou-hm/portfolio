@@ -1,25 +1,38 @@
-# Web Developer | E-commerce & AI Automation
-
-Hi! I'm a Web Developer from Algeria 🇩🇿
-
-I specialize in building modern, responsive websites
-and e-commerce applications.
-
-## Technical Skills
-- HTML5
-- CSS3
-- JavaScript
-- React.js
-- TypeScript
-- Supabase
-- Git & GitHub
-- API Integration
-
-## Featured Projects
-- E-commerce Platforms
-- Business Websites
-- Home Maintenance Website
-- Interactive Web Applications
-
-## Portfolio
-https://nasrou-hm-portfolio.vercel.app/
+ _   _ _     _                                                           |  <h1 align="center">Hi 👋, I'm Nasrou Hamdani</h1>
+| | | (_)   (_)_ __ ___    _ __   __ _ ___ _ __ ___  _   _               |  <h3 align="center">Web Developer | E-commerce Specialist | Meta Ads Expert</h3>
+| |_| | |   | | '_ ` _ \  | '_ \ / _` / __| '__/ _ \| | | |              |  <br>
+|  _  | |_  | | | | | | | | | | | (_| \__ \ | | (_) | |_| |              |  ```json
+|_| |_|_( ) |_|_| |_| |_| |_| |_|\__,_|___/_|  \___/ \___/               |  {
+                                              **    @@@@@@               |  "profile": {                      
+                                              @@  @@@@@@@@@@@            |    "name": "Nasrou Hamdani",                       
+                                               @@@@@@@@@@@@@@@@@@        \     "role": "Web Developer",                     
+                                               @@@@@@@@@@@@@@@@@@@@      /     "location": "Algeria",                      
+                                               @@@@@@@@@@@@@@@@@@@@+     \     "experience": "3+ Years",                     
+                                           #@@@@#*****++%@@@@@@@@@@%**   |      "languages": ["HTML", "CSS", "JavaScript", "React", "Tailwind CSS"],
+                                          *@@@%**++======++*#%@@@@@@@@@   \     "focus": "Modern Websites & High-Converting Campaigns"                     
+                                          *@@@**+============+++@@@%@@    /      },                   
+                                          #@%**+**++=--========++++=@@    \   "stats": {                  
+                                          *#*+*####%#*=--======+++=-@@    /     "projects_completed": "50+",                    
+                                      +*+*%+==+@@@@*======+#%*++++==@@    \     "platforms": ["Shopify", "GitHub", "Meta Ads Manager"]                     
+                                      -+*#+=+=====*#**++=+**#@@@*+=*@     /      };                  
+                                      =%*#+========+*+++###@@**#*++@      \    "contact": {                    
+                                      :==*==----=+==+==+++***%#++*#       /    "email": "chnakhtensloven@gmail.com",                     
+                                        -===-++=++++++==+==+++==#         \    "portfolio": "[https://nasrou-hm-portfolio.vercel.app]"                      
+                                        -===-=@%%===#*+========**#%       /                         
+                                        ====--=#*:-**+*+=====++**#        \                          
+                                        -+==---===*##%@%*+++++=*          /                         
+                                       ==++=----=======+*+++              \                          
+                                       =++++#*=-----==++**                /                         
+                                       ++=+++*%@@@@###**                  \                          
+                                   #@@@+===+++++++++++*                                             
+                                  #@@@@++===++++++++++@@                                            
+                                 @%@@@@#=======++++++*@@@@@                                         
+                            #%@@@@@@@@@@@*======++*+*@%%%@@@@@@@@@@@@                               
+                       ::*@@@@@@@%@@@@@@%@@%===++**@@%%%%@@@@@@@@@@@@@@@@                           
+                   %@@@@@@@@@@@@@@@@@@%@%%%@%@@@%@@@@@@%@@@@@@@@@@@@@@@@@@@@                        
+                                                                                                 
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
